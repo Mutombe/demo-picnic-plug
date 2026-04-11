@@ -81,9 +81,9 @@ const siteData = {
     ctaSecondary: "See Packages",
     trustBadge: "2,000+ Gatherings Hosted",
     backgroundImages: [
-      { url: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=1920&q=85", alt: "Picnic Plug professional image 1" },
+      { url: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80", alt: "Picnic Plug professional image 1" },
       { url: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=1920&q=85", alt: "Picnic Plug professional image 2" },
-      { url: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=1920&q=85", alt: "Picnic Plug showcase" },
+      { url: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80", alt: "Picnic Plug showcase" },
     ],
   },
 
@@ -136,7 +136,7 @@ const siteData = {
         slug: "pool-parties",
         desc: "Crystal-clear pools with sun loungers, poolside bars, and Bluetooth sound systems for the ultimate pool day experience.",
         features: ["Professional Service", "Quality Guaranteed", "Expert Team", "Competitive Pricing", "Fast Turnaround", "Full Support"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
       },
       {
         title: "Picnic Setups",
@@ -150,7 +150,7 @@ const siteData = {
         slug: "birthday-celebrations",
         desc: "Full party packages with pool access, decor, music, and optional catering for milestone birthdays.",
         features: ["Professional Service", "Quality Guaranteed", "Expert Team", "Competitive Pricing", "Fast Turnaround", "Full Support"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
       },
       {
         title: "Bridal Showers",
@@ -164,7 +164,7 @@ const siteData = {
         slug: "corporate-team-days",
         desc: "Team-building and company fun days with pool access, braai facilities, and organized activities.",
         features: ["Professional Service", "Quality Guaranteed", "Expert Team", "Competitive Pricing", "Fast Turnaround", "Full Support"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
       },
       {
         title: "Kids Parties",
@@ -188,9 +188,9 @@ const siteData = {
         desc: "A showcase project demonstrating our expertise in pool parties.",
         client: "Commercial Client",
         services: ["Pool Parties", "Picnic Setups"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
         images: [
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         ],
       },
@@ -205,7 +205,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
         ],
       },
       {
@@ -216,9 +216,9 @@ const siteData = {
         desc: "A showcase project demonstrating our expertise in birthday celebrations.",
         client: "Industrial Client",
         services: ["Birthday Celebrations", "Bridal Showers"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
         images: [
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         ],
       },
@@ -233,7 +233,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
         ],
       },
       {
@@ -244,9 +244,9 @@ const siteData = {
         desc: "A showcase project demonstrating our expertise in corporate team days.",
         client: "Commercial Client",
         services: ["Corporate Team Days", "Kids Parties"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
         images: [
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         ],
       },
@@ -261,7 +261,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
         ],
       },
     ],
@@ -377,7 +377,7 @@ const siteData = {
     ctaPrimary: "Book Your Day",
     ctaSecondary: "Chat on WhatsApp",
     whatsappText: "Hello Picnic Plug! I want to book a pool party/picnic.",
-    backgroundImage: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=1920&q=85",
+    backgroundImage: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&fit=crop&q=80",
   },
 
   footer: {
